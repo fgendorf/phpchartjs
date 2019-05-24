@@ -1,0 +1,17 @@
+{
+    "name": "fgendorf/phpchartjs",
+    "description": "ChartJS framework helps you build your graphs easily. Homepage: http://www.chartjs.org",
+    "authors": [
+        {
+            "name": "Frederico Gendorf",
+            "email": "fgendorf@gmail.com"
+        }
+    ],
+    "homepage": "http://www.chartjs.org",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": ["code/"]
+    }
+}
